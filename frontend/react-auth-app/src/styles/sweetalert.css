@@ -1,0 +1,30 @@
+
+.swal-popup {
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+ 
+  .swal-register-btn {
+    background-color: rgb(69, 69, 159) !important; 
+    color: white !important;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+  
+  .swal-register-btn:active {
+    background-color: green !important; 
+  }
+  
+  /* SweetAlert Cancel Button */
+  .swal-cancel-btn {
+    background-color: rgb(177, 66, 66) !important; 
+    color: white !important;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+  
+  .swal-cancel-btn:active {
+    background-color: orangered !important; 
+  }
+  

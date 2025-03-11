@@ -1,0 +1,17 @@
+.student-container {
+    padding: 20px;
+  }
+  
+  .student-details {
+    border: 1px solid rgb(173, 173, 173);
+    padding: 10px;
+  }
+  
+  .logout-button {
+    background-color: rgb(184, 58, 58);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  

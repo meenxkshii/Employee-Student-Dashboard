@@ -1,0 +1,128 @@
+.employee-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .register-btn {
+    background-color: rgb(101, 176, 101);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .register-btn:hover {
+    background-color: green;
+  }
+  
+  .logout-btn {
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .logout-btn:hover {
+    background-color: rgb(138, 50, 50);
+  }
+  
+  .student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .student-table th, .student-table td {
+    border: 1px solid rgb(165, 145, 145);
+    padding: 8px;
+  }
+  
+  .student-table th {
+    background-color: rgb(182, 171, 171);
+  }
+  .delete-btn {
+    background-color: rgb(216, 88, 78);
+    color: rgb(101, 53, 53);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .delete-btn:hover {
+    background-color: red;
+  }
+  .update-btn {
+    background-color: rgb(25, 63, 25);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  
+  .update-btn:hover {
+    background-color: rgb(108, 210, 108);
+  }
+
+  .swal2-confirm {
+    background-color: rgb(24, 169, 185) !important; 
+    color: rgb(210, 122, 122) !important; 
+    border-radius: 5px;
+    padding: 8px 16px;
+  }
+  
+  .swal2-confirm:hover {
+    background-color: darkblue !important;
+  }
+  .icon-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0 5px;
+    color: rgb(60, 57, 57); 
+    transition: color 0.3s ease;
+  }
+  
+  .icon-btn:hover {
+    color: red; 
+  }
+  
+  .student-table td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+.swal-confirm-btn {
+  background-color: red !important; 
+  color: white !important;
+  border-radius: 5px !important;
+  padding: 8px 12px !important;
+}
+
+
+.swal-cancel-btn {
+  background-color: rgb(138, 36, 36) !important; 
+  color: white !important;
+  border-radius: 5px !important;
+  padding: 8px 12px !important;
+}
+
+
+.swal2-popup .swal2-actions button {
+  margin: 5px !important;
+}
+
+  
+  

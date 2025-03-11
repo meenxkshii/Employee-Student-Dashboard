@@ -1,0 +1,30 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-color: rgb(92, 110, 110);
+  }
+  
+  .login-form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-field {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .login-button {
+    width: 100%;
+    background-color: rgb(11, 92, 119);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
