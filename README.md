@@ -18,3 +18,14 @@ This is a full-stack Employee-Student Dashboard built using React (frontend) and
 1. Clone the repository:
    ```sh
    git clone https://github.com/meenxkshii/Employee-Student-Dashboard.git
+2. Start the backend:
+   cd backend/studentportal
+   mvn spring-boot:run
+3.Start the frontend:
+   cd frontend/react-auth-app
+   npm install
+   npm start
+
+## Contributor
+Meenakshi K R
+
