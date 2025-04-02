@@ -22,18 +22,15 @@ This is a full-stack Employee-Student Dashboard built using React (frontend) and
 2. Start the backend:
    ```sh
    cd backend/studentportal
-   
-   ```sh
+
    mvn spring-boot:run
    
 3.Start the frontend:
-```sh
+
    cd frontend/react-auth-app
 
-```sh
    npm install
 
-```sh
    npm start
 
 ## Contributor
