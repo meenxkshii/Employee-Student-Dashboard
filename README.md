@@ -25,13 +25,14 @@ This is a full-stack Employee-Student Dashboard built using React (frontend) and
 
    mvn spring-boot:run
    
-3.Start the frontend:
+3. Start the frontend:
 ```sh
    cd frontend/react-auth-app
 
    npm install
 
    npm start
+```
 
 ## Contributor
 Meenakshi K R
